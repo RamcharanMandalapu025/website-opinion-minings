@@ -1,0 +1,65 @@
+clause,aspect,sentiment
+The brand verified it as legit,genuineness,Positive
+It is exactly the real thing,genuineness,Positive
+The product was 100% original,genuineness,Positive
+Got a genuine item with the authenticity card inside,genuineness,Positive
+Compared with the store model it is identical,genuineness,Positive
+Packaging looked fake,genuineness,Negative
+The logo looks like a knockoff,genuineness,Negative
+Definitely a fake product,genuineness,Negative
+Nothing about it feels real,genuineness,Negative
+The item is a cheap counterfeit,genuineness,Negative
+Shipping was quick,delivery,Positive
+Reached me within 2 days,delivery,Positive
+Delivery was super fast,delivery,Positive
+Package came well packed,delivery,Positive
+Delivered right on time,delivery,Positive
+Still waiting for my parcel after a month,delivery,Negative
+Arrived with a torn box,delivery,Negative
+The delivery guy was unreachable,delivery,Negative
+The courier never showed up,delivery,Negative
+The package arrived two weeks late,delivery,Negative
+Very well made product,quality,Positive
+No defects at all,quality,Positive
+The finish is top notch,quality,Positive
+Battery lasts all day,quality,Positive
+Sound quality blew me away,quality,Positive
+The zipper tore on the first use,quality,Negative
+Screen had a crack out of the box,quality,Negative
+Material is cheaply made,quality,Negative
+It stopped working after a week,quality,Negative
+Performance is laggy,quality,Negative
+Got a call back the same day,support,Positive
+They answered all my questions patiently,support,Positive
+The agent solved my issue quickly,support,Positive
+Service team followed up twice,support,Positive
+Customer care was excellent,support,Positive
+Support is a joke,support,Negative
+The agent was rude,support,Negative
+Support never replied,support,Negative
+Customer service hung up on me,support,Negative
+Messages left on read for days,support,Negative
+Easy exchange process,refund,Positive
+Got my money back quickly,refund,Positive
+Cancellation was instant,refund,Positive
+Full refund with no arguments,refund,Positive
+The refund reached my account promptly,refund,Positive
+Return policy is a trap,refund,Negative
+Cancelled my order but never refunded,refund,Negative
+Refund keeps getting delayed,refund,Negative
+Money back requests get excuses,refund,Negative
+Return window is too short,refund,Negative
+Much cheaper than other sites,pricing,Positive
+Coupons made it even cheaper,pricing,Positive
+Prices are unbeatable,pricing,Positive
+Excellent value for money,pricing,Positive
+The bargain of the year,pricing,Positive
+Pricing is all over the place,pricing,Negative
+Zero value for money,pricing,Negative
+Overpriced for the quality,pricing,Negative
+Not a bargain at all,pricing,Negative
+Costs more than the competition,pricing,Negative
+Got a laptop from here,none,Neutral
+This was my first purchase,none,Neutral
+I use the mobile app,none,Neutral
+I read the reviews before ordering,none,Neutral

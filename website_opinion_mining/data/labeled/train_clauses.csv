@@ -1,0 +1,119 @@
+clause,aspect,sentiment
+The hologram checked out fine,genuineness,Positive
+Not a single sign of a fake,genuineness,Positive
+Received a genuine branded product,genuineness,Positive
+No doubt about the originality of this watch,genuineness,Positive
+Totally trustworthy authentic stuff,genuineness,Positive
+Feels like the real deal,genuineness,Positive
+Serial number matched the brand website,genuineness,Positive
+Authentic item with a sealed box,genuineness,Positive
+Seller sells only authentic goods,genuineness,Positive
+It was a duplicate sold as original,genuineness,Negative
+Not original at all,genuineness,Negative
+The brand confirmed it is not genuine,genuineness,Negative
+The logo clearly shows it is a replica,genuineness,Negative
+They sell first copy items as branded,genuineness,Negative
+I doubt the authenticity of this item,genuineness,Negative
+Serial number did not match the brand records,genuineness,Negative
+Received a forged warranty card,genuineness,Negative
+Total scam with imitation goods,genuineness,Negative
+Tracking updates were accurate,delivery,Positive
+Dispatched the same day,delivery,Positive
+The courier was prompt,delivery,Positive
+Parcel showed up earlier than expected,delivery,Positive
+Fastest shipping I have seen,delivery,Positive
+Neat packaging with speedy shipping,delivery,Positive
+Arrived two days before the promised date,delivery,Positive
+The order came in just 3 days,delivery,Positive
+Got it the very next morning,delivery,Positive
+Tracking has not updated for ten days,delivery,Negative
+Waited 3 weeks for it to arrive,delivery,Negative
+Order kept getting delayed,delivery,Negative
+Got it way later than promised,delivery,Negative
+Shipping is painfully slow,delivery,Negative
+Dispatch took forever,delivery,Negative
+Promised 3 day shipping that took 3 weeks,delivery,Negative
+Package was lost in transit,delivery,Negative
+Delivery took 15 days,delivery,Negative
+Really durable stuff,quality,Positive
+Looks even better than the photos,quality,Positive
+Stitching is neat,quality,Positive
+Works perfectly since day one,quality,Positive
+Performance has been flawless,quality,Positive
+It has held up great for months,quality,Positive
+The quality is excellent,quality,Positive
+Build feels very sturdy,quality,Positive
+Material feels premium,quality,Positive
+Poor build quality,quality,Negative
+Quality is terrible,quality,Negative
+Feels flimsy,quality,Negative
+Battery drains in two hours,quality,Negative
+The buttons fell off within days,quality,Negative
+Item was damaged,quality,Negative
+Colour faded after one wash,quality,Negative
+The product was broken,quality,Negative
+Faulty piece from day one,quality,Negative
+Customer support was very helpful,support,Positive
+Staff went out of their way to help me,support,Positive
+Chat support resolved everything,support,Positive
+They replied within an hour,support,Positive
+Support team was polite,support,Positive
+My complaint was handled professionally,support,Positive
+Great after sales service,support,Positive
+Responsive team,support,Positive
+The helpline picked up immediately,support,Positive
+Got bounced between agents,support,Negative
+Helpline keeps cutting my calls,support,Negative
+They ignored my complaint,support,Negative
+Chat support just gave canned replies,support,Negative
+Customer care is useless,support,Negative
+Service team is unresponsive,support,Negative
+Nobody answered my emails,support,Negative
+No one bothered to get back to me,support,Negative
+Raised a ticket with zero response,support,Negative
+Refund was processed in 3 days,refund,Positive
+Return was hassle free,refund,Positive
+Exchange was smooth,refund,Positive
+Return policy is very fair,refund,Positive
+Money was credited back right away,refund,Positive
+Replacement came without any fuss,refund,Positive
+Return pickup was arranged next day,refund,Positive
+They replaced the item without questions,refund,Positive
+They honored the warranty,refund,Positive
+Refund process is a nightmare,refund,Negative
+Replacement request was rejected,refund,Negative
+They keep saying refund is in process,refund,Negative
+They refuse to take returns,refund,Negative
+Warranty claim was denied,refund,Negative
+Return pickup never happened,refund,Negative
+Still no refund after two months,refund,Negative
+No exchange allowed for any reason,refund,Negative
+They deducted charges from my refund,refund,Negative
+Cost me way less than the store,pricing,Positive
+Great price for what you get,pricing,Positive
+Best deal I found online,pricing,Positive
+Amazing discounts during the sale,pricing,Positive
+Got it at half the market rate,pricing,Positive
+Totally worth the money,pricing,Positive
+Very affordable,pricing,Positive
+Fair pricing,pricing,Positive
+Offers here beat every competitor,pricing,Positive
+Extra fees made it costly,pricing,Negative
+Not worth the price,pricing,Negative
+Too pricey,pricing,Negative
+I paid double the actual price,pricing,Negative
+Hidden charges at checkout,pricing,Negative
+Cheaper in the local shop,pricing,Negative
+Way too expensive,pricing,Negative
+The discount is based on an inflated MRP,pricing,Negative
+Prices were raised right before the sale,pricing,Negative
+Ordered during the festival,none,Neutral
+I have been shopping here for a year,none,Neutral
+I ordered a phone last week,none,Neutral
+Ordered a pair of shoes,none,Neutral
+Needed a charger urgently,none,Neutral
+I ordered it for my daughter,none,Neutral
+Used this site for a gift,none,Neutral
+Bought this for my brother,none,Neutral
+Bought two of them,none,Neutral
+Placed the order on Sunday,none,Neutral
